@@ -15,8 +15,8 @@ REG_NAME = 1
 RENAME_FULL = 2
 
 # токен бота(ключ), ID админа
-ADMIN_ID = 6316611231
-BOT_TOKEN = '8390942791:AAHB7Q-13gf1iRN7HKKk0X9D5Kl8LEMmzHA'
+ADMIN_ID = id
+BOT_TOKEN = 'token'
 bot = telebot.TeleBot(BOT_TOKEN)
 
 
